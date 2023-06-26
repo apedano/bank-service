@@ -8,3 +8,18 @@ GET http://localhost:8080/bank/name-programmatically
 
 GET http://localhost:8080/bank/mobilebanking
 
+###
+
+GET http://localhost:8080/bank/support
+
+###
+
+GET http://localhost:8080/bank/supportmapping
+
+###
+
+GET http://bank-service-xan80-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/bank/name
+
+###
+
+GET http://bank-service-xan80-dev.apps.sandbox-m4.g2pi.p1.openshiftapps.com/bank/secrets
