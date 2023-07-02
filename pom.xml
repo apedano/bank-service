@@ -60,6 +60,8 @@
       <version>1.18.26</version>
       <scope>provided</scope>
     </dependency>
+
+<!--    TEST dependencies-->
     <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-junit5</artifactId>
